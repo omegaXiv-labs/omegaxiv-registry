@@ -1,12 +1,12 @@
 {
   "handle": "cl-act",
-  "latest_version": "0.1.1",
+  "latest_version": "0.1.2",
   "package_type": "library",
   "project_name": "Continual Learning Activation Function",
   "repo_id": "omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff",
   "repo_url": "https://github.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff",
   "schema_version": "1.0",
-  "updated_at": "2026-03-11T20:54:13+00:00",
+  "updated_at": "2026-03-11T21:34:39+00:00",
   "versions": [
     {
       "artifacts": [
@@ -101,6 +101,60 @@
       "requirements_path": "package/cl-act/requirements.txt",
       "source_run_id": "83ee7868-d428-49bd-8660-6a783d7d605c",
       "version": "0.1.1"
+    },
+    {
+      "artifacts": [
+        {
+          "kind": "wheel",
+          "path": "package/cl-act/dist/activation_cl_validation-0.1.0-py3-none-any.whl",
+          "sha256": "62fb88841937e201081b083af0592f95302b3a81455c402406b41e45d5f91c1a",
+          "size_bytes": 10305,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/package/cl-act/dist/activation_cl_validation-0.1.0-py3-none-any.whl"
+        },
+        {
+          "kind": "archive",
+          "path": "package/cl-act/dist/activation_cl_validation_source.tar.gz",
+          "sha256": "aaf9fab6f9dc5d1b037f003aea79f48bbfc9dda9a40ece0c9926e22f1d3dddda",
+          "size_bytes": 713292,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/package/cl-act/dist/activation_cl_validation_source.tar.gz"
+        },
+        {
+          "kind": "other",
+          "path": "package/cl-act/packaging_manifest.json",
+          "sha256": "4d4ff920cdebb0dfaf605b3021916ad6086f805385018b04a062ff19f186103e",
+          "size_bytes": 7121,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/package/cl-act/packaging_manifest.json"
+        },
+        {
+          "kind": "other",
+          "path": "package/cl-act/README.md",
+          "sha256": "319dab171879b6b18a82f369cdedff6d6fd829dae21e2d0b28f539bd96b452d8",
+          "size_bytes": 2410,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/package/cl-act/README.md"
+        },
+        {
+          "kind": "other",
+          "path": "package/cl-act/requirements.txt",
+          "sha256": "5fc248781dca4e4b0252f039aa3a32d7c253f14ffbac06429f5bf5ec0a88fd4b",
+          "size_bytes": 217,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/package/cl-act/requirements.txt"
+        },
+        {
+          "kind": "other",
+          "path": "package/cl-act/dependency_graph.json",
+          "sha256": "4ba9e4c26833dbc52eb30380c296805b3e3d95a2e24484e613c9c5644ae7e3ad",
+          "size_bytes": 6036,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/package/cl-act/dependency_graph.json"
+        }
+      ],
+      "created_at": "2026-03-11T21:34:39+00:00",
+      "dependency_graph_path": "package/cl-act/dependency_graph.json",
+      "distribution_name": "activation-cl-validation",
+      "install_target": "activation-cl-validation",
+      "manifest_path": "package/cl-act/packaging_manifest.json",
+      "requirements_path": "package/cl-act/requirements.txt",
+      "source_run_id": "7ec057b4-cd08-4fe4-95bf-7d6e4dc89680",
+      "version": "0.1.2"
     }
   ]
 }

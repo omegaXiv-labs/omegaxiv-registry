@@ -2,15 +2,15 @@
   "handles": {
     "cl-act": {
       "handle": "cl-act",
-      "latest_version": "0.1.0",
+      "latest_version": "0.1.1",
       "package_type": "library",
       "record_path": "handles/cl-act.json",
       "repo_id": "omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff",
       "repo_url": "https://github.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff",
-      "summary": "Reusable package artifacts for `activation_cl_validation` remain staged under `workspace/packages/cl-act` (src/tests/examples, wheel/archive, manifest, dependency metadata). Release finalization remains blocked because `phase_outputs/review_feedback.json` still reports `decision=iterate` and owner/admin handle confirmation is still pending.",
-      "updated_at": "2026-03-11T18:47:54+00:00"
+      "summary": "Reusable packaging artifacts for activation_cl_validation are staged under workspace/packages/cl-act with handle locked to cl-act in autonomous mode; release finalization remains blocked because phase_outputs/review_feedback.json still reports decision=iterate and force_packaging_release was not set.",
+      "updated_at": "2026-03-11T20:54:13+00:00"
     }
   },
   "schema_version": "1.0",
-  "updated_at": "2026-03-11T18:47:54+00:00"
+  "updated_at": "2026-03-11T20:54:13+00:00"
 }

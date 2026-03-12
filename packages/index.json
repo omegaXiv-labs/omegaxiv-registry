@@ -9,8 +9,18 @@
       "repo_url": "https://github.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff",
       "summary": "Reusable package artifacts for activation_cl_validation are staged under workspace/packages/cl-act with validated lint/type/test and clean wheel install/import smoke evidence; release finalization remains blocked because upstream review_feedback decision is iterate and force_packaging_release was not provided.",
       "updated_at": "2026-03-11T22:34:35+00:00"
+    },
+    "yb171-raman-gate": {
+      "handle": "yb171-raman-gate",
+      "latest_version": "0.1.0",
+      "package_type": "library",
+      "record_path": "handles/yb171-raman-gate.json",
+      "repo_id": "omegaXiv-labs/omegaXiv-run-79511904-9604-483a-9afe-21038b35f3a8",
+      "repo_url": "https://github.com/omegaXiv-labs/omegaXiv-run-79511904-9604-483a-9afe-21038b35f3a8",
+      "summary": "Release package yb171-raman-gate v0.1.0 is ready. Canonical user flow is `pip install omegaxiv` then `ox install yb171-raman-gate==0.1.0`. Import guidance: `from yb171_raman_gate import RamanGateModel, build_tradeoff_table, fit_surrogate`.",
+      "updated_at": "2026-03-12T00:40:33+00:00"
     }
   },
   "schema_version": "1.0",
-  "updated_at": "2026-03-11T22:34:36+00:00"
+  "updated_at": "2026-03-12T00:40:33+00:00"
 }

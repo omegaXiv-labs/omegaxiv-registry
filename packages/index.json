@@ -12,15 +12,15 @@
     },
     "yb171-raman-gate": {
       "handle": "yb171-raman-gate",
-      "latest_version": "0.1.5",
+      "latest_version": "0.1.6",
       "package_type": "library",
       "record_path": "handles/yb171-raman-gate.json",
       "repo_id": "omegaXiv-labs/omegaXiv-run-79511904-9604-483a-9afe-21038b35f3a8",
       "repo_url": "https://github.com/omegaXiv-labs/omegaXiv-run-79511904-9604-483a-9afe-21038b35f3a8",
       "summary": "Release package yb171-raman-gate v0.1.0 is finalized as a reusable Python library extracted from UP1 core contribution symbols. Canonical user flow: pip install omegaxiv, then ox install yb171-raman-gate==0.1.0. Import guidance: from yb171_raman_gate import RamanGateModel, evaluate_gate_point, build_tradeoff_table, fit_surrogate.",
-      "updated_at": "2026-03-13T10:22:44+00:00"
+      "updated_at": "2026-03-13T10:45:49+00:00"
     }
   },
   "schema_version": "1.0",
-  "updated_at": "2026-03-13T10:22:45+00:00"
+  "updated_at": "2026-03-13T10:45:50+00:00"
 }

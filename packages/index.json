@@ -10,6 +10,16 @@
       "summary": "Reusable package artifacts for activation_cl_validation are staged under workspace/packages/cl-act with validated lint/type/test and clean wheel install/import smoke evidence; release finalization remains blocked because upstream review_feedback decision is iterate and force_packaging_release was not provided.",
       "updated_at": "2026-03-11T22:34:35+00:00"
     },
+    "fft-policy-selector": {
+      "handle": "fft-policy-selector",
+      "latest_version": "0.1.0",
+      "package_type": "library",
+      "record_path": "handles/fft-policy-selector.json",
+      "repo_id": "omegaXiv-labs/omegaXiv-run-b5362065-2e2a-47fe-a2f7-c03bdc20080c",
+      "repo_url": "https://github.com/omegaXiv-labs/omegaXiv-run-b5362065-2e2a-47fe-a2f7-c03bdc20080c",
+      "summary": "Reusable library release for scenario-conditioned Fourier policy selection. Install with `pip install omegaxiv` then `ox install fft-policy-selector==0.1.0`. For Python usage, import from `fft_policy_selector`, for example `from fft_policy_selector import ScenarioConditionedSelector, selector_policy`.",
+      "updated_at": "2026-03-15T20:00:32+00:00"
+    },
     "gri-hybrid-ranker": {
       "handle": "gri-hybrid-ranker",
       "latest_version": "0.1.0",
@@ -32,5 +42,5 @@
     }
   },
   "schema_version": "1.0",
-  "updated_at": "2026-03-14T20:47:06+00:00"
+  "updated_at": "2026-03-15T20:00:32+00:00"
 }

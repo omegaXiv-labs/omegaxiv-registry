@@ -1,0 +1,122 @@
+{
+  "handle": "lottery-bias-kit",
+  "latest_version": "0.1.0",
+  "package_type": "library",
+  "project_name": "Detecting Physical and Procedural Bias in Lottery Draws: A Number-Theoretic and Statistical Study",
+  "repo_id": "omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc",
+  "repo_url": "https://github.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc",
+  "schema_version": "1.0",
+  "updated_at": "2026-03-16T21:32:01+00:00",
+  "versions": [
+    {
+      "artifacts": [
+        {
+          "kind": "wheel",
+          "path": "packages/lottery-bias-kit/dist/omegaxiv_lottery_bias_kit-0.1.0-py3-none-any.whl",
+          "sha256": "e23579a4a2873da0eb2ca58aba7c2fd8d127c7fc6a2f06403299350e21f7fb92",
+          "size_bytes": 11772,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc/paper-v1/packages/lottery-bias-kit/dist/omegaxiv_lottery_bias_kit-0.1.0-py3-none-any.whl"
+        },
+        {
+          "kind": "archive",
+          "path": "packages/lottery-bias-kit/dist/lottery-bias-kit-0.1.0-source.tar.gz",
+          "sha256": "b1e69e27eb69c9d7d0cf493523727769ee76ae449c50c8eb9f6027ffb1c03cfe",
+          "size_bytes": 12347,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc/paper-v1/packages/lottery-bias-kit/dist/lottery-bias-kit-0.1.0-source.tar.gz"
+        },
+        {
+          "kind": "other",
+          "path": "packages/lottery-bias-kit/packaging_manifest.json",
+          "sha256": "66e13961053851c96a352c91a9f00782f2062360121203ae0cfc2173addace0f",
+          "size_bytes": 3373,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc/paper-v1/packages/lottery-bias-kit/packaging_manifest.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/lottery-bias-kit/dependency_graph.json",
+          "sha256": "bae453bcabb13d2799c9b596af00741e00e63d1edb75dd19736cd0721ee04821",
+          "size_bytes": 1744,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc/paper-v1/packages/lottery-bias-kit/dependency_graph.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/lottery-bias-kit/requirements.txt",
+          "sha256": "305b747d33f9e9e35eba950407581842901959b73f9c1986f4350223114062fc",
+          "size_bytes": 45,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc/paper-v1/packages/lottery-bias-kit/requirements.txt"
+        },
+        {
+          "kind": "other",
+          "path": "packages/lottery-bias-kit/README.md",
+          "sha256": "a68177ba6d5048f5ae7f3357bf7f7cac22108afaf0767747705ca49af28d58aa",
+          "size_bytes": 1758,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc/paper-v1/packages/lottery-bias-kit/README.md"
+        },
+        {
+          "kind": "other",
+          "path": "packages/lottery-bias-kit/src/lottery_bias_kit/analysis.py",
+          "sha256": "0f6a26bb78f9c1dd63a08096d390494e7154cebb582bfc6ce67fdf8aca644c25",
+          "size_bytes": 25841,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc/paper-v1/packages/lottery-bias-kit/src/lottery_bias_kit/analysis.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/lottery-bias-kit/src/lottery_bias_kit/data.py",
+          "sha256": "68cf51177c97080a1251f2a71f493380346e0db08c8a5679752621ab7f9d336b",
+          "size_bytes": 4126,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc/paper-v1/packages/lottery-bias-kit/src/lottery_bias_kit/data.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/lottery-bias-kit/src/lottery_bias_kit/sympy_checks.py",
+          "sha256": "ab133c80cd52ebff361d20199a982a9b3ee5a94d54281eb9bd0e5e8c02b1cd78",
+          "size_bytes": 1078,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc/paper-v1/packages/lottery-bias-kit/src/lottery_bias_kit/sympy_checks.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/lottery-bias-kit/tests/test_pipeline_api.py",
+          "sha256": "535424ab3787803ccccaa8931d504312bae7370452c65ecdc25de8f790ec88a3",
+          "size_bytes": 1195,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc/paper-v1/packages/lottery-bias-kit/tests/test_pipeline_api.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/lottery-bias-kit/examples/basic_usage.py",
+          "sha256": "ac2ada0a412dd57d829c8ab8c4dd96724ffdea5e7cc3a3d0ab02c5a445baf64e",
+          "size_bytes": 538,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc/paper-v1/packages/lottery-bias-kit/examples/basic_usage.py"
+        },
+        {
+          "kind": "other",
+          "path": "packages/registry/index.json",
+          "sha256": "6ac7a8d50aefebb51dd06c75afffe750eb728dfc9ed6f0a7159225b6b0fed6c8",
+          "size_bytes": 232,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc/paper-v1/packages/registry/index.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/registry/lottery-bias-kit.json",
+          "sha256": "499c895eaef4762b9ee8f0d1d6178e220ddfdc1ab72be8aff3e3c771362d3ede",
+          "size_bytes": 446,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc/paper-v1/packages/registry/lottery-bias-kit.json"
+        },
+        {
+          "kind": "other",
+          "path": "packages/lottery-bias-kit/pyproject.toml",
+          "sha256": null,
+          "size_bytes": 589,
+          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc/paper-v1/packages/lottery-bias-kit/pyproject.toml"
+        }
+      ],
+      "created_at": "2026-03-16T21:32:01+00:00",
+      "dependency_graph_path": "packages/lottery-bias-kit/dependency_graph.json",
+      "distribution_name": "omegaxiv-lottery-bias-kit",
+      "install_target": "packages/lottery-bias-kit/dist/omegaxiv_lottery_bias_kit-0.1.0-py3-none-any.whl",
+      "manifest_path": "packages/lottery-bias-kit/packaging_manifest.json",
+      "requirements_path": "packages/lottery-bias-kit/requirements.txt",
+      "source_run_id": "535f2b5f-6569-414c-ab36-b54e7f8e0785",
+      "version": "0.1.0"
+    }
+  ]
+}

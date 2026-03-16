@@ -30,6 +30,16 @@
       "summary": "Registry backfill for run 91db9a32-aae3-44e1-8814-3f362dee8ced.",
       "updated_at": "2026-03-14T20:47:05+00:00"
     },
+    "lottery-bias-kit": {
+      "handle": "lottery-bias-kit",
+      "latest_version": "0.1.0",
+      "package_type": "library",
+      "record_path": "handles/lottery-bias-kit.json",
+      "repo_id": "omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc",
+      "repo_url": "https://github.com/omegaXiv-labs/omegaXiv-run-1ef61661-324f-4455-8e8e-7cef134ebbbc",
+      "summary": "Packaged approved outputs as reusable library `omegaxiv-lottery-bias-kit` (`lottery_bias_kit` import path) with extracted core implementations, tests, examples, manifest, dependency graph, registry metadata, and built artifacts. Canonical user install flow is `pip install omegaxiv` then `ox install lottery-bias-kit==0.1.0`; maintainer/dev install target is `packages/lottery-bias-kit/dist/omegaxiv_lottery_bias_kit-0.1.0-py3-none-any.whl`. Import guidance: `from lottery_bias_kit import LotteryBiasAnalyzer`.",
+      "updated_at": "2026-03-16T21:32:01+00:00"
+    },
     "yb171-raman-gate": {
       "handle": "yb171-raman-gate",
       "latest_version": "0.1.6",
@@ -42,5 +52,5 @@
     }
   },
   "schema_version": "1.0",
-  "updated_at": "2026-03-15T20:00:32+00:00"
+  "updated_at": "2026-03-16T21:32:02+00:00"
 }

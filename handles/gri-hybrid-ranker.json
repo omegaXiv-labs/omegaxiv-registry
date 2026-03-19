@@ -3,8 +3,8 @@
   "latest_version": "0.1.0",
   "package_type": "library",
   "project_name": "Glucose-Responsive Insulin Design via Machine Learning and Molecular Binding Modeling",
-  "repo_id": "omegaXiv-labs/omegaXiv-run-847300d1-9697-4153-9694-f2ccf35bd6c3",
-  "repo_url": "https://github.com/omegaXiv-labs/omegaXiv-run-847300d1-9697-4153-9694-f2ccf35bd6c3",
+  "repo_id": "alphaomega-labs/run-847300d1-9697-4153-9694-f2ccf35bd6c3",
+  "repo_url": "https://github.com/alphaomega-labs/run-847300d1-9697-4153-9694-f2ccf35bd6c3",
   "schema_version": "1.0",
   "updated_at": "2026-03-14T20:47:05+00:00",
   "versions": [
@@ -15,55 +15,55 @@
           "path": "packages/gri-hybrid-ranker/dist/omegaxiv_gri_hybrid_ranker-0.1.0-py3-none-any.whl",
           "sha256": "810adb4a0586a845b98c68d7dd3dbad42b2fd06e811ac6cbcf438c8ce2569b25",
           "size_bytes": 10690,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/dist/omegaxiv_gri_hybrid_ranker-0.1.0-py3-none-any.whl"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/dist/omegaxiv_gri_hybrid_ranker-0.1.0-py3-none-any.whl"
         },
         {
           "kind": "archive",
           "path": "packages/gri-hybrid-ranker/dist/gri-hybrid-ranker-0.1.0.tar.gz",
           "sha256": "eec87e58da8162abbef5a377855b6a940f6c4008fe8a1ba97ccd226b9838ca83",
           "size_bytes": 9478,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/dist/gri-hybrid-ranker-0.1.0.tar.gz"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/dist/gri-hybrid-ranker-0.1.0.tar.gz"
         },
         {
           "kind": "other",
           "path": "packages/gri-hybrid-ranker/packaging_manifest.json",
           "sha256": null,
           "size_bytes": 3454,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/packaging_manifest.json"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/packaging_manifest.json"
         },
         {
           "kind": "other",
           "path": "packages/gri-hybrid-ranker/README.md",
           "sha256": null,
           "size_bytes": 2537,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/README.md"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/README.md"
         },
         {
           "kind": "other",
           "path": "packages/gri-hybrid-ranker/requirements.txt",
           "sha256": null,
           "size_bytes": 343,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/requirements.txt"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/requirements.txt"
         },
         {
           "kind": "other",
           "path": "packages/gri-hybrid-ranker/dependency_graph.json",
           "sha256": null,
           "size_bytes": 1054,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/dependency_graph.json"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/dependency_graph.json"
         },
         {
           "kind": "other",
           "path": "packages/gri-hybrid-ranker/pyproject.toml",
           "sha256": null,
           "size_bytes": 1320,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/pyproject.toml"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/pyproject.toml"
         }
       ],
       "created_at": "2026-03-14T20:47:05+00:00",
       "dependency_graph_path": "packages/gri-hybrid-ranker/dependency_graph.json",
       "distribution_name": "omegaxiv-gri-hybrid-ranker",
-      "install_target": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/dist/omegaxiv_gri_hybrid_ranker-0.1.0-py3-none-any.whl",
+      "install_target": "https://raw.githubusercontent.com/alphaomega-labs/run-847300d1-9697-4153-9694-f2ccf35bd6c3/paper-v1/packages/gri-hybrid-ranker/dist/omegaxiv_gri_hybrid_ranker-0.1.0-py3-none-any.whl",
       "manifest_path": "packages/gri-hybrid-ranker/packaging_manifest.json",
       "requirements_path": "packages/gri-hybrid-ranker/requirements.txt",
       "source_run_id": "91db9a32-aae3-44e1-8814-3f362dee8ced",

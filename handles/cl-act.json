@@ -3,8 +3,8 @@
   "latest_version": "0.1.3",
   "package_type": "library",
   "project_name": "Continual Learning Activation Function",
-  "repo_id": "omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff",
-  "repo_url": "https://github.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff",
+  "repo_id": "alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff",
+  "repo_url": "https://github.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff",
   "schema_version": "1.0",
   "updated_at": "2026-03-11T22:34:35+00:00",
   "versions": [
@@ -15,43 +15,43 @@
           "path": "packages/cl-act/dist/activation_cl_validation-0.1.0-py3-none-any.whl",
           "sha256": "62fb88841937e201081b083af0592f95302b3a81455c402406b41e45d5f91c1a",
           "size_bytes": 10305,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation-0.1.0-py3-none-any.whl"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation-0.1.0-py3-none-any.whl"
         },
         {
           "kind": "archive",
           "path": "packages/cl-act/dist/activation_cl_validation_source.tar.gz",
           "sha256": "aaf9fab6f9dc5d1b037f003aea79f48bbfc9dda9a40ece0c9926e22f1d3dddda",
           "size_bytes": 713292,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation_source.tar.gz"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation_source.tar.gz"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/packaging_manifest.json",
           "sha256": "34788144f7717291debcf018079fdcc15281bf895b83bdd2474aebb1a50d91cd",
           "size_bytes": 2930,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/packaging_manifest.json"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/packaging_manifest.json"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/README.md",
           "sha256": "319dab171879b6b18a82f369cdedff6d6fd829dae21e2d0b28f539bd96b452d8",
           "size_bytes": 2410,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/README.md"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/README.md"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/dependency_graph.json",
           "sha256": "4ba9e4c26833dbc52eb30380c296805b3e3d95a2e24484e613c9c5644ae7e3ad",
           "size_bytes": 6036,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json"
         }
       ],
       "created_at": "2026-03-11T18:47:54+00:00",
-      "dependency_graph_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json",
+      "dependency_graph_path": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json",
       "distribution_name": "activation-cl-validation",
-      "install_target": "git+https://github.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff.git@main#subdirectory=experiments/activation_cl_validation",
+      "install_target": "git+https://github.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff.git@main#subdirectory=experiments/activation_cl_validation",
       "manifest_path": "packages/cl-act/packaging_manifest.json",
-      "requirements_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt",
+      "requirements_path": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt",
       "source_run_id": "64db4f51-4d7a-45e3-8f3b-5da9ae2abea1",
       "version": "0.1.0"
     },
@@ -62,43 +62,43 @@
           "path": "packages/cl-act/dist/activation_cl_validation-0.1.0-py3-none-any.whl",
           "sha256": "62fb88841937e201081b083af0592f95302b3a81455c402406b41e45d5f91c1a",
           "size_bytes": 10305,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation-0.1.0-py3-none-any.whl"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation-0.1.0-py3-none-any.whl"
         },
         {
           "kind": "archive",
           "path": "packages/cl-act/dist/activation_cl_validation_source.tar.gz",
           "sha256": "aaf9fab6f9dc5d1b037f003aea79f48bbfc9dda9a40ece0c9926e22f1d3dddda",
           "size_bytes": 713292,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation_source.tar.gz"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation_source.tar.gz"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/packaging_manifest.json",
           "sha256": "84590bdef434c9fa2a1dcbef182de5e77a6599c4b1d61f575c16edaec04e96a6",
           "size_bytes": 3001,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/packaging_manifest.json"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/packaging_manifest.json"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/README.md",
           "sha256": "319dab171879b6b18a82f369cdedff6d6fd829dae21e2d0b28f539bd96b452d8",
           "size_bytes": 2410,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/README.md"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/README.md"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/dependency_graph.json",
           "sha256": "4ba9e4c26833dbc52eb30380c296805b3e3d95a2e24484e613c9c5644ae7e3ad",
           "size_bytes": 6036,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json"
         }
       ],
       "created_at": "2026-03-11T20:54:13+00:00",
-      "dependency_graph_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json",
+      "dependency_graph_path": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json",
       "distribution_name": "activation-cl-validation",
-      "install_target": "git+https://github.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff.git@main#subdirectory=experiments/activation_cl_validation",
+      "install_target": "git+https://github.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff.git@main#subdirectory=experiments/activation_cl_validation",
       "manifest_path": "packages/cl-act/packaging_manifest.json",
-      "requirements_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt",
+      "requirements_path": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt",
       "source_run_id": "83ee7868-d428-49bd-8660-6a783d7d605c",
       "version": "0.1.1"
     },
@@ -109,50 +109,50 @@
           "path": "packages/cl-act/dist/activation_cl_validation-0.1.0-py3-none-any.whl",
           "sha256": "62fb88841937e201081b083af0592f95302b3a81455c402406b41e45d5f91c1a",
           "size_bytes": 10305,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation-0.1.0-py3-none-any.whl"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation-0.1.0-py3-none-any.whl"
         },
         {
           "kind": "archive",
           "path": "packages/cl-act/dist/activation_cl_validation_source.tar.gz",
           "sha256": "aaf9fab6f9dc5d1b037f003aea79f48bbfc9dda9a40ece0c9926e22f1d3dddda",
           "size_bytes": 713292,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation_source.tar.gz"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation_source.tar.gz"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/packaging_manifest.json",
           "sha256": "4d4ff920cdebb0dfaf605b3021916ad6086f805385018b04a062ff19f186103e",
           "size_bytes": 7121,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/packaging_manifest.json"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/packaging_manifest.json"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/README.md",
           "sha256": "319dab171879b6b18a82f369cdedff6d6fd829dae21e2d0b28f539bd96b452d8",
           "size_bytes": 2410,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/README.md"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/README.md"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/requirements.txt",
           "sha256": "5fc248781dca4e4b0252f039aa3a32d7c253f14ffbac06429f5bf5ec0a88fd4b",
           "size_bytes": 217,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/dependency_graph.json",
           "sha256": "4ba9e4c26833dbc52eb30380c296805b3e3d95a2e24484e613c9c5644ae7e3ad",
           "size_bytes": 6036,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json"
         }
       ],
       "created_at": "2026-03-11T21:34:39+00:00",
-      "dependency_graph_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json",
+      "dependency_graph_path": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json",
       "distribution_name": "activation-cl-validation",
-      "install_target": "git+https://github.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff.git@main#subdirectory=experiments/activation_cl_validation",
+      "install_target": "git+https://github.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff.git@main#subdirectory=experiments/activation_cl_validation",
       "manifest_path": "packages/cl-act/packaging_manifest.json",
-      "requirements_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt",
+      "requirements_path": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt",
       "source_run_id": "7ec057b4-cd08-4fe4-95bf-7d6e4dc89680",
       "version": "0.1.2"
     },
@@ -163,106 +163,106 @@
           "path": "packages/cl-act/dist/activation_cl_validation-0.1.0-py3-none-any.whl",
           "sha256": "62fb88841937e201081b083af0592f95302b3a81455c402406b41e45d5f91c1a",
           "size_bytes": 10305,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation-0.1.0-py3-none-any.whl"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation-0.1.0-py3-none-any.whl"
         },
         {
           "kind": "archive",
           "path": "packages/cl-act/dist/activation_cl_validation_source.tar.gz",
           "sha256": "aaf9fab6f9dc5d1b037f003aea79f48bbfc9dda9a40ece0c9926e22f1d3dddda",
           "size_bytes": 713292,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation_source.tar.gz"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dist/activation_cl_validation_source.tar.gz"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/packaging_manifest.json",
           "sha256": "75428dc7b46e9ef44fe7ba45c3c1739ec573bde8c7af738df708f5d2b935e82e",
           "size_bytes": 9037,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/packaging_manifest.json"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/packaging_manifest.json"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/README.md",
           "sha256": "319dab171879b6b18a82f369cdedff6d6fd829dae21e2d0b28f539bd96b452d8",
           "size_bytes": 2410,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/README.md"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/README.md"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/requirements.txt",
           "sha256": "5fc248781dca4e4b0252f039aa3a32d7c253f14ffbac06429f5bf5ec0a88fd4b",
           "size_bytes": 217,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/dependency_graph.json",
           "sha256": "4ba9e4c26833dbc52eb30380c296805b3e3d95a2e24484e613c9c5644ae7e3ad",
           "size_bytes": 6036,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/pyproject.toml",
           "sha256": "8519020fa9013c73c32fc7d641cdcbc7a749af0df56ab093d5f1df2c60f13ef4",
           "size_bytes": 805,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/pyproject.toml"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/pyproject.toml"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/src/activation_cl_validation/__init__.py",
           "sha256": "e0ae0bcde0e91867a86505df29bab94beac48b88746558eb709c8c3634aaa736",
           "size_bytes": 161,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/src/activation_cl_validation/__init__.py"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/src/activation_cl_validation/__init__.py"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/src/activation_cl_validation/core.py",
           "sha256": "b7add730ee2b9c76ed2c5dd4dece8772701d334734104fc3917c6a56263a6061",
           "size_bytes": 16197,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/src/activation_cl_validation/core.py"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/src/activation_cl_validation/core.py"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/src/activation_cl_validation/analysis.py",
           "sha256": "deca3394d47d4fa1d013dbc11352f4f5027bad4bcd824cf323f34e79162ff150",
           "size_bytes": 3065,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/src/activation_cl_validation/analysis.py"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/src/activation_cl_validation/analysis.py"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/src/activation_cl_validation/plotting.py",
           "sha256": "d0c7a427b7d1482241268e60da8501caca4cc70fb8b6e712f5dccd7c90805fc4",
           "size_bytes": 4571,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/src/activation_cl_validation/plotting.py"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/src/activation_cl_validation/plotting.py"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/src/activation_cl_validation/sympy_checks.py",
           "sha256": "cdf723db5daa7ec7f1a7d3e3228f85f2dfc5588ea2bf5ae604967313a4936062",
           "size_bytes": 1907,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/src/activation_cl_validation/sympy_checks.py"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/src/activation_cl_validation/sympy_checks.py"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/tests/test_core.py",
           "sha256": "69a68ae8bf2edb4f9535a61a55178d27eb10c0fdbc636cb5dd377187b1125d38",
           "size_bytes": 792,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/tests/test_core.py"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/tests/test_core.py"
         },
         {
           "kind": "other",
           "path": "packages/cl-act/examples/basic_usage.py",
           "sha256": "ea1aa410a4b61e4087a9f8c1c02e570b539f4ba5984db451a51f31d42f280aff",
           "size_bytes": 815,
-          "url": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/examples/basic_usage.py"
+          "url": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/examples/basic_usage.py"
         }
       ],
       "created_at": "2026-03-11T22:34:35+00:00",
-      "dependency_graph_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json",
+      "dependency_graph_path": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/dependency_graph.json",
       "distribution_name": "activation-cl-validation",
-      "install_target": "git+https://github.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff.git@main#subdirectory=experiments/activation_cl_validation",
+      "install_target": "git+https://github.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff.git@main#subdirectory=experiments/activation_cl_validation",
       "manifest_path": "packages/cl-act/packaging_manifest.json",
-      "requirements_path": "https://raw.githubusercontent.com/omegaXiv-labs/omegaXiv-run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt",
+      "requirements_path": "https://raw.githubusercontent.com/alphaomega-labs/run-bc36d98c-6b8e-435c-8783-221723ad93ff/main/packages/cl-act/requirements.txt",
       "source_run_id": "48b4c4c9-9573-4d99-915c-13b663431efd",
       "version": "0.1.3"
     }
